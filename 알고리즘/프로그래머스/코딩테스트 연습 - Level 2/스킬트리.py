@@ -22,3 +22,5 @@ def solution(skill, skill_trees):
 skill, skill_trees = "CBD", ["BACDE", "CBADF", "AECB", "BDA"]
 
 print(solution(skill, skill_trees))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

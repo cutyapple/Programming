@@ -19,3 +19,5 @@ bridge_length, weight, truck_weights = 2, 10, [7,4,5,6]
 # bridge_length, weight, truck_weights = 100, 100, [10,10,10,10,10,10,10,10,10,10]
 
 print(solution(bridge_length, weight, truck_weights))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

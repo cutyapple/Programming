@@ -37,3 +37,5 @@ def solution(n, arr1, arr2):
 # n, arr1, arr2 = 6, [46, 33, 33 ,22, 31, 50, ], [27, 56, 19, 14, 14, 10, ]
 n, arr1, arr2 = 1, [0], [1]
 print(solution(n, arr1, arr2))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

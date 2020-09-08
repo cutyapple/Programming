@@ -28,3 +28,5 @@ N, stages = 5, [2, 1, 2, 6, 2, 4, 3, 3]
 # N, stages = 4, [4, 4, 4, 4, 4]
 
 print(solution(N, stages))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

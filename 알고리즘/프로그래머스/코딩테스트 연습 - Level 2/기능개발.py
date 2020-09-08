@@ -24,3 +24,5 @@ def solution(progresses, speeds):
 progresses, speeds = [93,30,55], [1,30,5]
 
 print(solution(progresses, speeds))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

@@ -4,3 +4,5 @@ def solution(num):
 num = 3
 
 print(solution(num))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

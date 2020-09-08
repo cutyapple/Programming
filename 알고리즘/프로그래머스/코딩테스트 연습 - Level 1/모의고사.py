@@ -30,3 +30,5 @@ def solution(answers):
 # answers = [1, 2, 3, 4, 5, ]
 answers = [1, 3, 2, 4, 2, ]
 solution(answers)
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

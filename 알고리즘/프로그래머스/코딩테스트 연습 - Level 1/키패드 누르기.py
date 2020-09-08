@@ -59,3 +59,5 @@ def solution(numbers, hand):
 numbers, hand = [7, 0, 8, 2, 8, 3, 1, 5, 7, 6, 2], "left"
 
 print(solution(numbers, hand))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

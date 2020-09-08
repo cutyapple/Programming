@@ -19,3 +19,5 @@ heights = [6,9,5,7,4]
 # heights = [1,5,3,6,7,6,5]
 
 print(solution(heights))
+
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
