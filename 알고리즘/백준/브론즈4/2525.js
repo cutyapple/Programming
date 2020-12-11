@@ -1,6 +1,9 @@
 // const fs = require('fs');
-// const [nowArr, needNum] = fs.readFileSync('/dev/stdin').toString().split("\n");
+// const [[h, m], needNum] = fs.readFileSync('/dev/stdin').toString().split("\n").map(str => str.split(" "));;
 
-const [numArr, needNum] = ['14 30', '20'];
+const [[h, m], needNum] = [['14', '30'], '1000'];
 
-console.log(numArr);
+console.log(
+	parseInt((60 * h + +m + +needNum) / 60) % 24,
+	(60 * h + +m + +needNum) % 60,
+);
